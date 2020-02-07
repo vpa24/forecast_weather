@@ -1,0 +1,4 @@
+name: Forecast weather
+description: Forecast weather
+core: 8.x
+type: module
